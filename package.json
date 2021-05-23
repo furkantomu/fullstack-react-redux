@@ -1,6 +1,5 @@
 {
   "name": "ecommerce",
-  "proxy": "https://ecommerceserverr.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
